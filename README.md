@@ -1,7 +1,7 @@
 <h1>MadEditor</h1>
 <h3>Free to use plugin for Unity Editor</h3>
 
-[Download](https://github.com/665e0909-3440-45ca-a053-ec6bfe2d1b36)
+[Download](https://github.com/MadChipset-CE/MadEditor/blob/main/Downloads/MadEditor.unitypackage)
 
 <br/>
 
